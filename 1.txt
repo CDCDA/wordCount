@@ -1,7 +1,0 @@
-Monday Tuesday Wednesday Thursday
-Friday Monday Tuesday Wednesday Thursday
-Friday Tuesday Wednesday Thursday
-Friday Monday Tuesday Thursday
-Friday Monday Wednesday Thursday
-Monday Tuesday Wednesday Thursday
-Friday Friday 
